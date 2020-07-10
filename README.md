@@ -9,3 +9,5 @@ Being able to build a geoprocessing tool from Python is a fundamental building b
 Presenters: 
 - David Wynne
 - Hannes Ziegler
+
+![](opening_slide.png)
